@@ -29,6 +29,7 @@ Currently exploring **data storytelling, BI automation**, and **cloud analytics*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="45" height="45"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+  <img scr="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45"/>
@@ -36,6 +37,7 @@ Currently exploring **data storytelling, BI automation**, and **cloud analytics*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  
 </p>
 ---
 
