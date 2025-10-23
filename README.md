@@ -52,10 +52,10 @@ Currently exploring **data storytelling, BI automation**, and **cloud analytics*
 ## 🌍 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yashwalde/" target="_blank">
+  <a href="https://www.linkedin.com/in/yashwalde/" target=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
   </a>
-  <a href="https://www.instagram.com/yashwalde.9/" target="_blank">
+  <a href="https://www.instagram.com/yashwalde.9/" target=">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"/>
   </a>
   <a href="mailto:yashwalde.data@gmail.com">
