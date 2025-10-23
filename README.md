@@ -1,4 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Walde  
+
+🎯 **Aspiring Data Analyst | Power BI Developer | SQL Enthusiast**  
+📍 Pune, Maharashtra | 💌 [yashwalde.data@gmail.com](mailto:yashwalde.data@gmail.com)  
+
+---
+
+## 💼 Work Experience  
+🧠 **Data Science Intern at Prodigy InfoTech (Dec 2023 – Jan 2024)** & **Data Analyst Virtual Intern at Accenture (Feb 2025 – Mar 2025)** — Gained hands-on experience in data cleaning, visualization, EDA, and business insight generation using Python, SQL, and Power BI.  
+
+---
+
+## 🧠 About Me  
+
+I'm a **Data Analyst** passionate about turning raw data into actionable insights.  
+Skilled in **Power BI, SQL, and Python**, I specialize in analyzing datasets, visualizing KPIs, and uncovering patterns that help businesses make smarter decisions.  
+Currently exploring **data storytelling, BI automation**, and **cloud analytics** to expand my analytical toolkit.  
+
+---
+
+## ⚙️ Languages and Tools  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📜 Certifications  
+
+🎓 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/986IP196J3M2)  
+🎓 Python for Data Science – NPTEL  
+🎓 Python Programming – GUVI (IITM Research Park)  
+
+---
+
+## 🌍 Connect With Me  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yashwalde/)  
+💻 [GitHub](https://github.com/YashWalde)  
+📧 [Email](mailto:yashwalde.data@gmail.com)  
+
+---
+
+⭐ *“Transforming raw data into meaningful insights.”* 📈  
+
 
 <!--
 **YashWalde/YashWalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
