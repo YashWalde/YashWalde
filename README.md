@@ -29,7 +29,7 @@ Currently exploring **data storytelling, BI automation**, and **cloud analytics*
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="45" height="45"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/>
-  <img src="[[https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg](https://dribbble.com/shots/2020456-Microsoft-Power-BI-Icon-Animation)](https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg)" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
