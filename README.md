@@ -6,8 +6,8 @@
 ---
 
 ## 💼 Work Experience  
-**Data Science Intern at Prodigy InfoTech (Dec 2023 – Jan 2024)**
-**Data Analyst Virtual Intern at Accenture (Feb 2025 – Mar 2025)**   
+  **Data Science Intern at Prodigy InfoTech (Dec 2023 – Jan 2024)**
+  **Data Analyst Virtual Intern at Accenture (Feb 2025 – Mar 2025)**   
 
 ---
 
