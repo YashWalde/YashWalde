@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yash Walde  
 
 🎯 **Aspiring Data Analyst | Power BI Developer | SQL Enthusiast**  
-📍 Pune, Maharashtra | 💌 [yashwalde.data@gmail.com](mailto:yashwalde.data@gmail.com)  
+
 
 ---
 
