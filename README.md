@@ -47,9 +47,7 @@ Currently exploring **data storytelling, BI automation**, and **cloud analytics*
 🎓 Python for Data Science – NPTEL  
 🎓 Python Programming – GUVI (IITM Research Park)  
 
----
-
-## 🌍 Connect With Me  
+---  
 
 ## 🌍 Connect With Me  
 
