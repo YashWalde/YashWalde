@@ -7,7 +7,9 @@
 
 ## 💼 Work Experience  
 - **Data Science Intern at Prodigy InfoTech (Dec 2023 – Jan 2024)**
-- **Data Analyst Virtual Job Simulation at Accenture (Forage)(Feb 2025 – Mar 2025)**   
+- **Data Analytics & Visualization Virtual Job Simulation at Accenture (Forage)(Feb 2025 – Mar 2025)**
+- **Data Analyst Trainee at Cravita Technologies India Pvt. Ltd. (Aug 2025 - Present)**
+- **Data Analytics Virtual Job Simulation at Deloitte (Oct 2025 - Nov 2025)**
 
 ---
 
